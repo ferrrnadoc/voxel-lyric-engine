@@ -29,4 +29,7 @@ python3 story.py --audio song.mp3 --out out.mp4
 | `engine/keysheet.py` | 关键帧联系表 |
 | `engine/story_template.py` | 能跑通全流程的基线 story，不是要交付的风格 |
 
+| `docs/engine-notes.md` | API 速查（rail、排布、出字、vox2、氛围、camcheck）和坑，写 story 之前读 |
+| `docs/evidence.md` | 参考片逐场对应、全片统计、做过的片子留下的教训表 |
+
 音频、歌词、字体和渲染产物都不进仓库（见 `.gitignore`）。
