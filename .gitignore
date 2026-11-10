@@ -1,0 +1,11 @@
+__pycache__/
+fonts/
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.mp4
+*.png
+*.jpg
+words*.json
+sheet.json

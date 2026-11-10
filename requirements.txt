@@ -1,0 +1,6 @@
+numpy
+pillow
+scipy
+librosa
+soundfile
+pyphen
